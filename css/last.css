@@ -1,0 +1,155 @@
+body{
+    margin-top: 30px;
+	color: #FF9494;
+	font-family: "Open Sans", sans-serif;
+    background-image: url(cute2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#thankyou {
+    text-align: center; 
+	font-size: 50px;
+}
+
+.last-text {
+    text-align: center;
+	font-size: 50px;
+}
+
+.first-img {
+    width: 230px;
+    height: 350px;
+    position: relative;
+    margin-top: 170px;
+    left: 20px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.sec-img{
+    width: 230px;
+    height: 350px;
+    position: relative;
+    margin-top: 170px;
+    left: 60px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.third-img{
+    width: 230px;
+    height: 350px;
+    position: relative;
+    margin-top: 170px;
+    margin-left: 100px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+.fourst-img{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    margin-top: 170px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+.fives-img{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    margin-top: 170px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+.six-img{
+    width: 250px;
+    height: 350px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.sevens-img{
+    width: 250px;
+    height: 350px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.eights-img{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.nines-img{
+    width: 230px;
+    height: 350px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+.tens-img{
+    width: 230px;
+    height: 350px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40px;
+    transform: translateY(-50%);
+    animation-name: Appearance;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+
+@-webkit-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+  
+@-o-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+  
+@-moz-keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+  
+@keyframes Appearance {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
